@@ -1,7 +1,7 @@
 {
-  "name": "senotron",
+  "name": "fransiz",
   "version": "1.0.0",
-  "description": "DESN & Odunchu",
+  "description": "Arda & Mami",
   "main": "senotron.js",
   "scripts": {
     "start": "node senotron.js"
