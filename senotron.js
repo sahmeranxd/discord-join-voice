@@ -6,10 +6,10 @@ const client = new Client({ intents: 519 });
 
 client.once("ready", async () => {
   console.log("Bot online!");
-  client.user.setActivity("https://youtube.com/@s3notron", { type: "WATCHING" });
+  client.user.setActivity("https://youtube.com/@obirsanaltanrisi", { type: "WATCHING" });
 
-  const channelId = "SES KANALI ID";
-  const guildId = "SUNUCU ID";
+  const channelId = "1447637629855338640";
+  const guildId = "1422708596654997646";
   const guild = client.guilds.cache.get(guildId);
 
   if (guild) {
